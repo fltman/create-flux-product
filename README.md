@@ -125,7 +125,7 @@ These need API keys. Copy `.env.example` to `.env`. It is gitignored. FLUX never
 
 We are not building intelligence. We are searching for it. The winning genome already existed as a possibility, and forking plus selection navigated to it. With FLUX you do not design agents, you design selection pressures and define what fitness means. Evolution does the rest. Death is essential. Most experiments fail, and that is fine, because death is information and the graveyard is a library.
 
-This template is the evolutionary successor to [create-hive-product](https://github.com/fltman/create-hive-product), which is itself the AI-native successor to role-based agent teams in [create-agentic-product](https://github.com/fltman/create-agentic-product).
+This template is the evolutionary successor to [create-hive-product](https://github.com/fltman/create-hive-product), which is itself the AI-native successor to the human-role model of [Agent Factory](https://github.com/fltman/create-agent-factory).
 
 ---
 
