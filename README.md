@@ -1,5 +1,7 @@
 # FLUX
 
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support%20my%20work-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/AndersBjarby)
+
 Evolving parallel intelligence in Claude Code. Agents are not written. They evolve.
 
 FLUX is the third step in a journey. **Agent Factory** made AI act like a company: CEO, HR, interviews, hiring. It worked, but it was cosplay, AI in human costumes. **HIVE** made AI act like itself: capabilities that spawn, merge, split, and dissolve, no hierarchy. Better, but still designed by a human. **FLUX** is not designed. It is an architecture that designs itself through evolution.
